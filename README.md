@@ -2,7 +2,7 @@
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on building beautiful frontend projects
-- 📫 How to reach me : you can visit my [linkedin profile](https://www.linkedin.com/in/guedouar-ameni)
+- 📫 How to reach me : you can visit my [linkedin profile](https://www.linkedin.com/in/ameniguedouar)
 
 <!---
 ameniguedouar/ameniguedouar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
